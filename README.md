@@ -9,4 +9,6 @@
 - 🏠 Based in Lyon 🇫🇷 (France) but born in Dakar 🇸🇳 (Senegal)
 
 
-<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/css.jpg" alt="drawing" width="25"/>
+<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/html.jpg" alt="drawing" width="35"/>
+
+<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/php.jpg" alt="drawing" width="35"/>
