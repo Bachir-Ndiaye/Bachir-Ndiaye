@@ -8,4 +8,5 @@
 - ⚡ Fun fact: . I have my own blog ✍️ [Link](https://ww.amadou-ndiaye.fr/blog)
 - 🏠 Based in Lyon 🇫🇷 (France) but born in Dakar 🇸🇳 (Senegal)
 
-![](https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/css.jpg =25x25)
+
+<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/css.jpg" alt="drawing" width="25"/>
