@@ -15,11 +15,11 @@
 <a href=""><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="70"/></a> 
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/sass.png" width="70"/></a> 
 <a href=""><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="70"/></a> 
-<a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/javascript.png width="70"/></a> js
+<a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="70"/></a> 
   
   <h1> Back</h1>
   <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="70"/></a>
-  <a href="https://cssbattle.dev/player/amadou"><img src="https://user-images.githubusercontent.com/64037332/117078149-9cc79a00-ad39-11eb-92c0-924f8d5cb8ab.png" width="70"/></a>
+  <a href="https://cssbattle.dev/player/amadou"><img src="https://assets.stickpng.com/thumbs/58481791cef1014c0b5e4994.png" width="70"/></a>
 
 
   
