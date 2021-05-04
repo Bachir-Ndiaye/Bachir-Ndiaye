@@ -19,10 +19,8 @@
   
   <h1> Back</h1>
   <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="70"/></a>
-  <a href="https://cssbattle.dev/player/amadou"><img src="https://fr.wikipedia.org/wiki/Fichier:PHP-logo.svg" width="70"/></a>
+  <a href="https://cssbattle.dev/player/amadou"><img src="https://user-images.githubusercontent.com/64037332/117078149-9cc79a00-ad39-11eb-92c0-924f8d5cb8ab.png" width="70"/></a>
 
-<a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="70"/></a>
-<a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/git.png" width="70"/></a> 
 
   
   <h1> Tools</h1>
@@ -35,7 +33,7 @@
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/linux.png" width="70"/></a>
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/tomcat.png" width="70"/></a> 
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/console.png" width="70"/></a> 
-<a href="https://cssbattle.dev/player/amadou"><img src="https://fr.wikipedia.org/wiki/Figma_(logiciel)#/media/Fichier:Figma-logo.svg" width="70"/></a>
+<a href="https://cssbattle.dev/player/amadou"><img src="https://lh3.googleusercontent.com/proxy/5jw3IAMpKO4mIGZnyVMibS9-Cwwl_9DsGtL7RhB16q1TJSc14uNLD78Z6YkwFX7RA89HH54zZvBI179me3r8B-UNsTDoWZPPGZ07I3XVdmFMmetRsWHzKNg" width="70"/></a>
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/symfony.png" width="70"/></a> 
 <a href="https://cssbattle.dev/player/amadou"><img src="https://twig.symfony.com/images/logo.png" width="70"/></a> 
 
