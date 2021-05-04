@@ -1,11 +1,19 @@
-### Hi there, I'm Amadou alias Bachir 👋
+## Hi there, I'm Amadou alias Bachir 👋
+
+
+🎓 Actualy learning Web Development at [Wild Code School Lyon](https://www.wildcodeschool.com/fr-FR/campus/lyon)
+🎓 Actually preparing Linux Certification
+🎓 Bachelor degree in Electronics [Université Claude Bernanrd Lyon 1](https://www.univ-lyon1.fr/)
+🎓 CPGE - PCSI/PSI
+
 
 - 🔭 I’m currently working on my soft and hard skills
 - 🌱 I’m currently learning web app architecture
 - 👯 I’m looking to collaborate on music and electronics projects
+- ⌛ Aimed to be a full stack dev
 - 💬 Ask me about how i discovered computer science ? [🌐](https://ww.amadou-ndiaye.fr/contact)
 - 📫 How to reach me: amadou.n-diaye@hotmail.com
-- ⚡ Fun fact: . I have my own blog ✍️ [Link](https://ww.amadou-ndiaye.fr/blog)
+- ⚡ Fun fact: I have my own blog ✍️ [Link](https://ww.amadou-ndiaye.fr/blog)
 - 🏠 Based in Lyon 🇫🇷 (France) but born in Dakar 🇸🇳 (Senegal)
 
 
