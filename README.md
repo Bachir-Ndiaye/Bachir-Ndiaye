@@ -11,4 +11,10 @@
 
 <img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/html.png" alt="drawing" width="35"/>
 
-<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/sql.png" alt="drawing" width="35"/>
+<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/clickup.png" alt="drawing" width="35"/>
+
+<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/figma.svg" alt="drawing" width="35"/>
+
+<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/js.png" alt="drawing" width="35"/>
+
+
