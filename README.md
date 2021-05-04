@@ -1,10 +1,10 @@
 ## Hi there, I'm Amadou alias Bachir 👋
 
 
-*🎓 Actualy learning Web Development at [Wild Code School Lyon](https://www.wildcodeschool.com/fr-FR/campus/lyon)
-*🎓 Actually preparing Linux Certification
-*🎓 Bachelor degree in Electronics [Université Claude Bernanrd Lyon 1](https://www.univ-lyon1.fr/)
-*🎓 CPGE - PCSI/PSI
+>🎓 Actualy learning Web Development at [Wild Code School Lyon](https://www.wildcodeschool.com/fr-FR/campus/lyon)
+>>🎓 Actually preparing Linux Certification
+>>>🎓 Bachelor degree in Electronics [Université Claude Bernanrd Lyon 1](https://www.univ-lyon1.fr/)
+>>>>🎓 CPGE - PCSI/PSI
 
 
 - 🔭 I’m currently working on my soft and hard skills
