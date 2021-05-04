@@ -9,13 +9,13 @@
 - 🏠 Based in Lyon 🇫🇷 (France) but born in Dakar 🇸🇳 (Senegal)
 
 
-<div sttyle="display:flex">
-  <img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/html.png" alt="drawing" width="35"/>
+<div sttyle="display:flex; justify-content:space-around;">
+  <img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/html.png" alt="drawing" width="50"/>
 
-<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/clickup.png" alt="drawing" width="35"/>
+<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/clickup.png" alt="drawing" width="50"/>
 
-<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/figma.svg" alt="drawing" width="35"/>
+<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/figma.svg" alt="drawing" width="50"/>
 
-<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/js.png" alt="drawing" width="35"/>
+<img src="https://github.com/Bachir-Ndiaye/Bachir-Ndiaye/blob/main/skills/js.png" alt="drawing" width="50"/>
 
 </div>
