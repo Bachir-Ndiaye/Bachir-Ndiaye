@@ -14,7 +14,7 @@
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/50/000000/css3.png" width="70"/></a> 
 <a href=""><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="70"/></a> 
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/sass.png" width="70"/></a> 
-<a href=""><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> bootstrap
+<a href=""><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="70"/></a> 
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/javascript.png width="70"/></a> js
   
   <h1> Back</h1>
