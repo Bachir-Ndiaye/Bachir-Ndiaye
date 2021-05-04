@@ -11,6 +11,6 @@
 
 <div sttyle="display:flex; justify-content:space-around;">
   
-<a href="https://cssbattle.dev/player/amadou"><img src="https://icons8.com/icon/21278/css3" alt="drawing" width="50"/></a>
+<a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/50/000000/css3.png" width="50"/></a>
 
 </div>
