@@ -11,6 +11,9 @@
 
 <div sttyle="display:flex; justify-content:space-around;">
   
-<a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/50/000000/css3.png" width="50"/></a>
+<a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/50/000000/css3.png" width="70"/></a>
+<a href=""><img src="<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>" width="70"/></a>
+<a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/50/000000/css3.png" width="70"/></a>
+<a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/50/000000/css3.png" width="70"/></a>
 
 </div>
