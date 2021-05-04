@@ -35,6 +35,6 @@
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/console.png" width="70"/></a> 
 <a href="https://cssbattle.dev/player/amadou"><img src="https://lh3.googleusercontent.com/proxy/5jw3IAMpKO4mIGZnyVMibS9-Cwwl_9DsGtL7RhB16q1TJSc14uNLD78Z6YkwFX7RA89HH54zZvBI179me3r8B-UNsTDoWZPPGZ07I3XVdmFMmetRsWHzKNg" width="70"/></a>
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/symfony.png" width="70"/></a> 
-<a href="https://cssbattle.dev/player/amadou"><img src="https://twig.symfony.com/images/logo.png" width="70"/></a> 
+<a href="https://cssbattle.dev/player/amadou"><img src="https://twig.symfony.com/images/logo.png" width="70"/></a>
 
 </div>
