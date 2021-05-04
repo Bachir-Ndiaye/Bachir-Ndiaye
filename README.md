@@ -13,7 +13,7 @@
 - ⌛ Aimed to be a full stack dev
 - 💬 Ask me about how i discovered computer science ? [🌐](https://ww.amadou-ndiaye.fr/contact)
 - 📫 How to reach me: amadou.n-diaye@hotmail.com
-- ⚡ Fun fact: I have my own blog ✍️ [Link](https://ww.amadou-ndiaye.fr/blog)
+- ⚡ Fun fact: I have my own blog ✍️ [Link](https://www.amadou-ndiaye.fr/blog)
 - 🏠 Based in Lyon 🇫🇷 (France) but born in Dakar 🇸🇳 (Senegal)
 
 
