@@ -18,9 +18,10 @@
 - 🏠 Based in Lyon 🇫🇷 (France) but born in Dakar 🇸🇳 (Senegal)
 - 😭 Made my first CTF competition this year
 
-  <h1> Projects</h1>
-   - [Manipulate Branch and flow](https://github.com/Bachir-Ndiaye/website-flow)
-
+<h1> Projects</h1>
+- [Hackathon 1 - Wild Code School](https://github.com/Bachir-Ndiaye/Hackathon_EventMars)
+- [Projet P1 : FindXLyon - Wild Code School](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
+- [Projet P2 : Metis Cooking - Wild Code School](https://github.com/Bachir-Ndiaye/MetisCooking)
 
 <div style="display:flex; justify-content:space-around;">
   <h1> Front</h1>
