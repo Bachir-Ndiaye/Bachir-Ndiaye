@@ -43,7 +43,7 @@
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/linux.png" width="70"/></a>
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/tomcat.png" width="70"/></a> 
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/console.png" width="70"/></a> 
-<a href="https://cssbattle.dev/player/amadou"><img src="https://lh3.googleusercontent.com/proxy/5jw3IAMpKO4mIGZnyVMibS9-Cwwl_9DsGtL7RhB16q1TJSc14uNLD78Z6YkwFX7RA89HH54zZvBI179me3r8B-UNsTDoWZPPGZ07I3XVdmFMmetRsWHzKNg" width="70"/></a>
+<a href="https://cssbattle.dev/player/amadou"><img src="https://cdn.sanity.io/images/599r6htc/production/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" width="70"/></a>
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/48/000000/symfony.png" width="70"/></a> 
 <a href="https://cssbattle.dev/player/amadou"><img src="https://twig.symfony.com/images/logo.png" width="70"/></a>
 
