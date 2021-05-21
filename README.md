@@ -18,11 +18,9 @@
 - 🏠 Based in Lyon 🇫🇷 (France) but born in Dakar 🇸🇳 (Senegal)
 - 😭 Made my first CTF competition this year
 
-<div>
   <h1> Projects</h1>
    - [Manipulate Branch and flow](https://github.com/Bachir-Ndiaye/website-flow)
-  </div>
-<h1> Projects</h1>
+
 
 <div style="display:flex; justify-content:space-around;">
   <h1> Front</h1>
