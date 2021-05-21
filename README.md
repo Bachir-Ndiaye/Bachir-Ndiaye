@@ -18,8 +18,13 @@
 - 🏠 Based in Lyon 🇫🇷 (France) but born in Dakar 🇸🇳 (Senegal)
 - 😭 Made my first CTF competition this year
 
+<div>
+  <h1> Projects</h1>
+   - [Manipulate Branch and flow](https://github.com/Bachir-Ndiaye/website-flow)
+  </div>
+<h1> Projects</h1>
 
-<div sttyle="display:flex; justify-content:space-around;">
+<div style="display:flex; justify-content:space-around;">
   <h1> Front</h1>
 <a href="https://cssbattle.dev/player/amadou"><img src="https://img.icons8.com/color/50/000000/css3.png" width="70"/></a> 
 <a href=""><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="70"/></a> 
