@@ -2,11 +2,12 @@
 
 
 >🎓 Actualy learning Web Development at [Wild Code School Lyon](https://www.wildcodeschool.com/fr-FR/campus/lyon)
->>🎓 Actually preparing Linux Certification
+>>🎓 Got my Linux Certification (equivalent to essentials)
 >>>🎓 Bachelor degree in Electronics [Université Claude Bernanrd Lyon 1](https://www.univ-lyon1.fr/)
 >>>>🎓 CPGE - PCSI/PSI
 
-
+- 🥇 I was appointed 'Wilder of the month" at Wild Code School based on : Passion, Innovation and Humanity
+- 👍 I am a Css battle addict, here is my profile [Amadou Css Battle profile](https://cssbattle.dev/player/amadou). Ranked 2837th/97697
 - 🔭 I’m currently working on my soft and hard skills
 - 🌱 I’m currently learning web app architecture
 - 👯 I’m looking to collaborate on music and electronics projects
@@ -14,15 +15,20 @@
 - ⌛ Aimed to be a full stack dev
 - 💬 Ask me about how i discovered computer science ? [🌐](https://ww.amadou-ndiaye.fr/contact)
 - 📫 How to reach me: amadou.n-diaye@hotmail.com
-- ⚡ Fun fact: I have my own blog ✍️ [Link](https://www.amadou-ndiaye.fr/blog)
+- ⚡ Fun fact: I have my own blog ✍️ [Link](https://www.blog.amadou-ndiaye.fr/)
 - 🏠 Based in Lyon 🇫🇷 (France) but born in Dakar 🇸🇳 (Senegal)
-- 😭 Made my first CTF competition this year
+- 😭 Made my first CTF competition this year (have to prepare myself for the next one clearly)
 
 
 # Projects
+## Finished project
 - [Hackathon 1 - Wild Code School](https://github.com/Bachir-Ndiaye/Hackathon_EventMars)
-- [Projet P1 : FindXLyon - Wild Code School](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
-- [Projet P2 : Metis Cooking - Wild Code School](https://github.com/Bachir-Ndiaye/MetisCooking)
+- [Project P1 : FindXLyon - Wild Code School](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
+- [Project P2 : Metis Cooking - Wild Code School](https://github.com/Bachir-Ndiaye/MetisCooking)
+
+## Basic Exercices
+- [Php form validation](https://github.com/Bachir-Ndiaye/FormsWithValidation)
+- [Iniation to Symfony](https://github.com/Bachir-Ndiaye/Symfony)
 
 <div style="display:flex; justify-content:space-around;">
   <h1> Front</h1>
