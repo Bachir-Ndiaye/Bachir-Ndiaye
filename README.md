@@ -22,7 +22,7 @@
 
 # Projects
 ## Finished project
-- [Hackathon 1 - EventMars - Wild Code School](https://github.com/Bachir-Ndiaye/Hackathon_EventMars)
+- [Hackathon 1 - EventMars - Wild Code School](https://github.com/Bachir-Ndiaye/Hackathon_EventMars) 
 - [Project P1 : FindXLyon - Wild Code School](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
 - [Project P2 : Metis Cooking - Wild Code School](https://github.com/Bachir-Ndiaye/MetisCooking)
 
