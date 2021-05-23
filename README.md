@@ -28,7 +28,8 @@
 
 ## Basic Exercices
 - [Php form validation](https://github.com/Bachir-Ndiaye/FormsWithValidation)
-- [Iniation to Symfony](https://github.com/Bachir-Ndiaye/Symfony)
+- [Initiation to Symfony](https://github.com/Bachir-Ndiaye/Symfony)
+- [Basic stuff : CRUD (hard datas, no database) with NodeJs, Express](https://github.com/Bachir-Ndiaye/NodeJS-Express-App)
 
 <div style="display:flex; justify-content:space-around;">
   <h1> Front</h1>
