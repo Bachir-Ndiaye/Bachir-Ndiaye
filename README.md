@@ -21,7 +21,7 @@
 
 
 # Projects
-## Finished project
+## Finished projects
 - [Hackathon 1 - EventMars - Wild Code School (php, mvc)](https://github.com/Bachir-Ndiaye/Hackathon_EventMars) 
 - [Project P1 : FindXLyon - Wild Code School (php, mvc)](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
 - [Project P2 : Metis Cooking - Wild Code School (php & js, mvc)](https://github.com/Bachir-Ndiaye/MetisCooking)
