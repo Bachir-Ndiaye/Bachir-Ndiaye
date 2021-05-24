@@ -22,9 +22,9 @@
 
 # Projects
 ## Finished project
-- [Hackathon 1 - EventMars - Wild Code School](https://github.com/Bachir-Ndiaye/Hackathon_EventMars) 
-- [Project P1 : FindXLyon - Wild Code School](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
-- [Project P2 : Metis Cooking - Wild Code School](https://github.com/Bachir-Ndiaye/MetisCooking)
+- [Hackathon 1 - EventMars - Wild Code School (php)](https://github.com/Bachir-Ndiaye/Hackathon_EventMars) 
+- [Project P1 : FindXLyon - Wild Code School (php)](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
+- [Project P2 : Metis Cooking - Wild Code School (php & js)](https://github.com/Bachir-Ndiaye/MetisCooking)
 
 ## Basic Exercices
 - [Php form validation](https://github.com/Bachir-Ndiaye/FormsWithValidation)
