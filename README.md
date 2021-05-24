@@ -22,15 +22,15 @@
 
 # Projects
 ## Finished project
-- [Hackathon 1 - EventMars - Wild Code School (php)](https://github.com/Bachir-Ndiaye/Hackathon_EventMars) 
-- [Project P1 : FindXLyon - Wild Code School (php)](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
-- [Project P2 : Metis Cooking - Wild Code School (php & js)](https://github.com/Bachir-Ndiaye/MetisCooking)
+- [Hackathon 1 - EventMars - Wild Code School (php, mvc)](https://github.com/Bachir-Ndiaye/Hackathon_EventMars) 
+- [Project P1 : FindXLyon - Wild Code School (php, mvc)](https://github.com/Bachir-Ndiaye/ProjetWCS-LesMusiciens)
+- [Project P2 : Metis Cooking - Wild Code School (php & js, mvc)](https://github.com/Bachir-Ndiaye/MetisCooking)
 
-## Basic Exercices
+## Exercices
 - [Php form validation](https://github.com/Bachir-Ndiaye/FormsWithValidation)
 - [Initiation to Symfony](https://github.com/Bachir-Ndiaye/Symfony)
-- [Basic stuff : CRUD (hard datas, no database) with NodeJs, Express](https://github.com/Bachir-Ndiaye/NodeJS-Express-App)
-- [Task Tracker - ReactJS](https://github.com/Bachir-Ndiaye/ReactJS-Basics)
+- [School Management System - ReactJS (still working on it)](https://github.com/Bachir-Ndiaye/SchoolManagement)
+- [Task Tracker - ReactJS (still working on it)](https://github.com/Bachir-Ndiaye/ReactJS-Basics)
 
 <div style="display:flex; justify-content:space-around;">
   <h1> Front</h1>
