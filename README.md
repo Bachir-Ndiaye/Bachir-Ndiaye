@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on music and electronics projects
 - ℹ️ Interested in cybersecurity
 - ⌛ Aimed to be a full stack dev
-- 💬 Ask me about how i discovered computer science ? [🌐](https://ww.amadou-ndiaye.fr/#contact)
+- 💬 Ask me about how i discovered computer science ? [🌐](https://www.amadou-ndiaye.fr/#contact)
 - 📫 How to reach me: amadou.n-diaye@hotmail.com
 - ⚡ Fun fact: I have my own blog ✍️ [Link](https://www.blog.amadou-ndiaye.fr/)
 - 🏠 Based in Lyon 🇫🇷 (France) but born in Dakar 🇸🇳 (Senegal)
