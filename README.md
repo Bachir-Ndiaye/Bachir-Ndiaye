@@ -28,7 +28,8 @@
 
 ## Exercices
 - [Php form validation](https://github.com/Bachir-Ndiaye/FormsWithValidation)
-- [Initiation to Symfony](https://github.com/Bachir-Ndiaye/Symfony)
+- [Basic API call | Ngork | Symfony](https://github.com/Bachir-Ndiaye/symfony-workshop-tac-api/tree/main)
+- [Wild Series | Symfony ](https://github.com/Bachir-Ndiaye/Symfony)
 - [School Management System - ReactJS (still working on it)](https://github.com/Bachir-Ndiaye/SchoolManagement)
 - [Task Tracker - ReactJS (still working on it)](https://github.com/Bachir-Ndiaye/ReactJS-Basics)
 
